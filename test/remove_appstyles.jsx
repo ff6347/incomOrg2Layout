@@ -1,0 +1,1 @@
+﻿for(var i = app.characterStyles.length; i>=0; i--){        try{        app.characterStyles.item(i).remove();                }catch(e){             alert("cant remove" + app.characterStyles.item(i).name);            }    }

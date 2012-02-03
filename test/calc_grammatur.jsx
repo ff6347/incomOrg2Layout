@@ -1,0 +1,1 @@
+﻿//~ r = u/i;//~ r*i = (u*i)/i;//~ r*i = u;// gekürzt//~ b=s/(2*g)//~ b*(2*g)=s//~ 2*g=s/b//~ g=(s/b)/2//~ g=2s/b//~ grammatur=(2*seitenzahl)/buchrueckenvar buchruecken = 9;var seitenzahl  = 124;//~ buchruecken = seitenzahl / (2*grammatur);var grammatur = seitenzahl / (2*buchruecken);//~ var grammatur = (2*seitenzahl)/buchruecken;alert(grammatur);
